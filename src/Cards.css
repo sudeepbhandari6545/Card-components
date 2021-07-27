@@ -1,0 +1,11 @@
+.card {
+  border: 3px solid whitesmoke;
+}
+.card_title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+}
+.more_text {
+  display: none;
+}
